@@ -180,40 +180,23 @@ The application supports:
 
 ---
 ## 📸 Application Screenshots
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/866c74a4-a11e-4524-9b44-b114b66525f8" />
-
 
 ### 🏠 FashionSense AI Dashboard
-
 The main dashboard allows users to create their style profile by selecting gender, age, skin tone, body type, occasion, preferred style, and budget.
-
-![FashionSense AI Dashboard](screenshots/home.png)
-
----
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/866c74a4-a11e-4524-9b44-b114b66525f8" />
 
 ### 👗 Fashion Recommendations
-
 Personalized fashion products are displayed based on the user's selected preferences.
-
-![Fashion Recommendations](screenshots/recommendations.png)
-
----
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/76cc5955-b013-4120-9a9c-e9a4ba8aa1b0" />
 
 ### 🤖 AI Stylist
-
 The AI Stylist provides personalized outfit suggestions, styling advice, color combinations, and alternative outfit ideas.
-
-![AI Stylist](screenshots/ai_stylist.png)
-
----
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57ceece2-21ab-4945-9d22-f00e76762f0e" />
 
 ### 📷 Outfit Analyzer
-
 Users can upload an image or use a webcam snapshot to analyze an outfit and receive styling suggestions.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be9b0bef-596b-4f91-8464-f6c5bfb1cbb4" />
 
-![Outfit Analyzer](screenshots/outfit_analyzer.png)
-
----
 
 ## 📂 Project Structure
 
