@@ -180,7 +180,8 @@ The application supports:
 
 ---
 ## 📸 Application Screenshots
-![Uploading image.png…]()
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/866c74a4-a11e-4524-9b44-b114b66525f8" />
+
 
 ### 🏠 FashionSense AI Dashboard
 
