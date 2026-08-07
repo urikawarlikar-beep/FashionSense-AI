@@ -1,0 +1,6 @@
+fashion_style/
+__pycache__/
+.env
+images/
+archive.zip
+*.pkl
