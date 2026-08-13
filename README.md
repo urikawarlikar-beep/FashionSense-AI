@@ -1,4 +1,4 @@
-# 👗 FashionSense AI
+#  FashionSense AI
 
 ### AI-Powered Fashion Recommendation & Virtual Stylist
 
@@ -8,9 +8,9 @@ The application combines fashion recommendation techniques with an interactive A
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👗 Fashion Recommendations
+###  Fashion Recommendations
 
 The system recommends fashion products based on user preferences such as:
 
@@ -24,7 +24,7 @@ The system recommends fashion products based on user preferences such as:
 
 ---
 
-### 🤖 AI Fashion Stylist
+###  AI Fashion Stylist
 
 The AI Stylist provides personalized fashion advice such as:
 
@@ -38,7 +38,7 @@ The AI Stylist provides personalized fashion advice such as:
 
 ---
 
-### 📸 Outfit Analyzer
+###  Outfit Analyzer
 
 Users can:
 
@@ -49,7 +49,7 @@ Users can:
 
 ---
 
-### 🔍 Recommendation Engine
+###  Recommendation Engine
 
 The project uses recommendation techniques including:
 
@@ -61,7 +61,7 @@ Fashion products can be recommended based on their characteristics and similarit
 
 ---
 
-## 🧠 Project Phases
+##  Project Phases
 
 ### Phase 1 — Data Understanding & EDA
 
@@ -143,7 +143,7 @@ The application supports:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming
 
@@ -179,30 +179,30 @@ The application supports:
 - GitHub
 
 ---
-## 📸 Application Screenshots
+##  Application Screenshots
 
-### 🏠 FashionSense AI Dashboard
+###  FashionSense AI Dashboard
 The main dashboard allows users to create their style profile by selecting gender, age, skin tone, body type, occasion, preferred style, and budget
 <img width="1365" height="644" alt="image" src="https://github.com/user-attachments/assets/b84fe922-3095-4274-bed2-11dbf2622fe1" />
 
 
-### 👗 Fashion Recommendations
+###  Fashion Recommendations
 Personalized fashion products are displayed based on the user's selected preferences.
 <img width="1353" height="645" alt="image" src="https://github.com/user-attachments/assets/0fe309f2-3e80-4ace-a093-ce7b4bbca0c1" />
 
 
-### 🤖 AI Stylist
+###  AI Stylist
 The AI Stylist provides personalized outfit suggestions, styling advice, color combinations, and alternative outfit ideas.
 <img width="1363" height="650" alt="image" src="https://github.com/user-attachments/assets/6cea53e7-b21a-430b-b5b8-6b3bb23381d8" />
 
 
-### 📷 Outfit Analyzer
+###  Outfit Analyzer
 Users can upload an image or use a webcam snapshot to analyze an outfit and receive styling suggestions.
 <img width="1358" height="622" alt="image" src="https://github.com/user-attachments/assets/850660c9-8ce0-4b53-8065-02392d798503" />
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 FashionSense-AI/
